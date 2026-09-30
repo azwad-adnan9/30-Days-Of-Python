@@ -1,0 +1,13 @@
+print ("Hello World")
+print (3/2)
+print(3**2)
+print(3%2)
+print(11//2)
+
+print(type(10))
+print(type(3.140))
+print(type(1+3j))
+print(type('Asa'))
+print(type([1,2,3]))
+print(type({'name':'Asa'}))
+print(type({9.8,3.4,22.3}))
